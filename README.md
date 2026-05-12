@@ -11,17 +11,21 @@ This repository contains Playwright learning examples and JavaScript concepts ex
 ## Files
 
 ### Root Files
+
 - `VS_Code_Shortcuts.md` - Visual Studio Code keyboard shortcuts for Windows.
 - `README.md` - This file.
 
 ### Chapter 1: Basics
+
 - `01_Basics.js` - Basic Playwright and JavaScript fundamentals.
 
 ### Chapter 2: JavaScript Concepts
+
 - `02_JS_Basics.js` - Core JavaScript concepts.
 - `04_functions.js` - Function definition and calling examples.
 
 ### Chapter 3: Identifiers & Literals
+
 - `03_var_let_const.js` - Variable declaration using var, let, and const with scope examples.
 - `05_hoisting.js` - JavaScript hoisting behavior demonstration.
 
