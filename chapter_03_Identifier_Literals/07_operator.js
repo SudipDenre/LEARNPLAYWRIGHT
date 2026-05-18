@@ -43,3 +43,13 @@ console.log(5 & 1); // 1
 console.log(5 & 7); //5
 console.log(6 | 9); //15
 console.log(13 | 7); //
+
+
+
+// increment operator
+let num=10;
+console.log(++num + num);
+
+let num1=10;
+console.log(num1++ + ++num1); // 10+12
+console.log(num1);
