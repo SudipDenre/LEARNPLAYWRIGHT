@@ -37,3 +37,11 @@ if(year%100===0){
         console.log("It's not a Leapyear.");
     }
 }
+
+// LeapYear check - approach 2
+let yr=2025;
+if((yr%4===0 && yr%100!==0) || yr%400===0){
+    console.log("It's Leap Year.")
+}else{
+    console.log("It's not a Leap Year.");
+}
