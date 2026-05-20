@@ -7,6 +7,9 @@ This repository contains Playwright learning examples and JavaScript concepts ex
 - `chapter_01_Basics/` - Basic Playwright examples and simple JavaScript fundamentals.
 - `chapter_02_Javascript_Concepts/` - JavaScript concept examples and practice files.
 - `chapter_03_Identifier_Literals/` - Identifier and literal examples in JavaScript.
+- `chapter_04_IfElse/` - If/else logic examples and practice questions.
+- `chapter_05_Switch/` - Switch statement examples.
+- `chapter_06_userInput/` - User input and prompt examples.
 
 ## Files
 
@@ -28,6 +31,19 @@ This repository contains Playwright learning examples and JavaScript concepts ex
 
 - `03_var_let_const.js` - Variable declaration using var, let, and const with scope examples.
 - `05_hoisting.js` - JavaScript hoisting behavior demonstration.
+
+### Chapter 4: If/Else
+
+- `09_If_Else.js` - If / else examples.
+- `10_IfElse_Questions.js` - Practice questions for if/else logic.
+
+### Chapter 5: Switch
+
+- `11_Switch_Statement.js` - Switch statement examples.
+
+### Chapter 6: User Input
+
+- `12_User_Input.js` - Prompt-based user input examples.
 
 ## Usage
 
