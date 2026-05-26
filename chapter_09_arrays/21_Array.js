@@ -63,7 +63,7 @@ console.log(marks);
 let rules = [1,2,3,4];
 console.log(rules);
 
-//rules.splice(2,1); // index-based deletion - 2-> start index, 1-> delecte count
+//rules.splice(2,1); // index-based deletion - 2-> start index, 1-> delete count
 //console.log(rules);  // [1,2,4]
 
 // rules.splice(2,0,99); // index-based insertion
