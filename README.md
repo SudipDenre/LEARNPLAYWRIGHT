@@ -46,15 +46,19 @@ LearnPlaywright/
 ## Chapters & Topics
 
 ### 📌 Chapter 1: Basics
+
 **Files:** `01_Basics.js`  
 **Topics:** JavaScript fundamentals, basic syntax and simple exercises
 
 ### 📌 Chapter 2: JavaScript Concepts
+
 **Files:** `02_JS_Basics.js`, `04_functions.js`  
 **Topics:** Core JavaScript concepts, function basics
 
 ### 📌 Chapter 3: Identifiers, Literals & Operators
-**Files:** 
+
+**Files:**
+
 - `03_var_let_const.js` - Variable declarations (var, let, const) and scope
 - `05_hoisting.js` - JavaScript hoisting behavior
 - `06_literal.js` - Literal values and types
@@ -64,22 +68,28 @@ LearnPlaywright/
 **Topics:** Variables, hoisting, operators, data types
 
 ### 📌 Chapter 4: If/Else Statements
-**Files:** 
+
+**Files:**
+
 - `09_If_Else.js` - Conditional logic examples
 - `10_IfElse_Questions.js` - Practice questions
 
 **Topics:** If, else-if, else statements and nested conditions
 
 ### 📌 Chapter 5: Switch Statements
+
 **Files:** `11_Switch_Statement.js`  
 **Topics:** Switch/case logic, break statements, default cases
 
 ### 📌 Chapter 6: User Input
+
 **Files:** `12_User_Input.js`  
 **Topics:** Handling user input with prompts
 
 ### 📌 Chapter 7: Task Exercises
-**Files:** 
+
+**Files:**
+
 - `13_task_q1.js` - Task question 1
 - `14_task_q2.js` - Task question 2
 - `15_task_q3.js` - Task question 3
@@ -89,7 +99,9 @@ LearnPlaywright/
 **Topics:** Practical exercises combining previous concepts
 
 ### 📌 Chapter 8: Loops
-**Files:** 
+
+**Files:**
+
 - `18_loops.js` - Loop fundamentals (for, while, do-while)
 - `19_loops_q1.js` - Loop practice question 1
 - `20_loops_q2.js` - Loop practice question 2
@@ -97,7 +109,9 @@ LearnPlaywright/
 **Topics:** For loops, while loops, loop control flow
 
 ### 📌 Chapter 9: Arrays
-**Files:** 
+
+**Files:**
+
 - `21_Array.js` - Array basics
 - `22_Array.js` - Array methods (part 1)
 - `23_Array.js` - Array methods (part 2)
@@ -109,7 +123,9 @@ LearnPlaywright/
 **Topics:** Array creation, manipulation, iteration, built-in methods
 
 ### 📌 Chapter 10: Functions
-**Files:** 
+
+**Files:**
+
 - `28_Functions.js` - Function basics and declarations
 - `29_Types_of_Functions.js` - Function types and variations
 
@@ -120,16 +136,20 @@ LearnPlaywright/
 ## How to Use
 
 ### Prerequisites
+
 - **Node.js** installed on your machine ([Download](https://nodejs.org/))
 - **Visual Studio Code** or any code editor
 
 ### Running Examples
+
 1. Navigate to the project directory:
+
    ```bash
    cd path/to/LearnPlaywright
    ```
 
 2. Run any JavaScript file:
+
    ```bash
    node chapter_XX_Chapter_Name/filename.js
    ```
@@ -141,6 +161,7 @@ LearnPlaywright/
    ```
 
 ### Learning Path
+
 1. Start with **Chapter 1** for fundamentals
 2. Progress sequentially through chapters
 3. Practice with exercise files marked with `_q` (questions) or `_task`
@@ -150,16 +171,16 @@ LearnPlaywright/
 
 ## Quick Reference
 
-| Concept | Chapter | Files |
-|---------|---------|-------|
-| Basics | 1 | `01_Basics.js` |
-| Variables (var/let/const) | 3 | `03_var_let_const.js` |
-| Hoisting | 3 | `05_hoisting.js` |
-| Operators | 3 | `07_operator.js`, `08_Ternary.js` |
-| Conditionals | 4, 5 | `09_If_Else.js`, `11_Switch_Statement.js` |
-| Loops | 8 | `18_loops.js` |
-| Arrays | 9 | `21_Array.js` - `27_Array_checking.js` |
-| Functions | 10 | `28_Functions.js`, `29_Types_of_Functions.js` |
+| Concept                   | Chapter | Files                                         |
+| ------------------------- | ------- | --------------------------------------------- |
+| Basics                    | 1       | `01_Basics.js`                                |
+| Variables (var/let/const) | 3       | `03_var_let_const.js`                         |
+| Hoisting                  | 3       | `05_hoisting.js`                              |
+| Operators                 | 3       | `07_operator.js`, `08_Ternary.js`             |
+| Conditionals              | 4, 5    | `09_If_Else.js`, `11_Switch_Statement.js`     |
+| Loops                     | 8       | `18_loops.js`                                 |
+| Arrays                    | 9       | `21_Array.js` - `27_Array_checking.js`        |
+| Functions                 | 10      | `28_Functions.js`, `29_Types_of_Functions.js` |
 
 ---
 
@@ -169,7 +190,7 @@ LearnPlaywright/
 ✅ Run examples and observe output  
 ✅ Modify code and experiment  
 ✅ Solve practice questions independently  
-✅ Review concepts before moving to next chapter  
+✅ Review concepts before moving to next chapter
 
 ---
 

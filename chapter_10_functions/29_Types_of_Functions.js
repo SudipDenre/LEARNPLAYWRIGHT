@@ -34,3 +34,7 @@ const doSomething = function (work){
 }
 
 console.log(doSomething("Study"));
+
+// Arrow Function
+const showStatus = status => status;
+console.log(showStatus("In-Progress"));
