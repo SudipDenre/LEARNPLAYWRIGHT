@@ -1,6 +1,6 @@
 # 📚 LearnPlaywright
 
-A comprehensive JavaScript learning repository covering fundamentals, control flow, data structures, and functions with practical examples and exercises.
+A comprehensive JavaScript learning repository covering fundamentals, control flow, data structures, functions, and practical exercises with examples.
 
 ---
 
@@ -37,6 +37,10 @@ LearnPlaywright/
 ├── chapter_08_loops/                     # Loop statements
 ├── chapter_09_arrays/                    # Array methods & operations
 ├── chapter_10_functions/                 # Function types & patterns
+├── chapter_11_strings/                   # String operations and methods
+├── chapter_12_objects/                   # Object concepts and references
+├── chapter_13_2D_array/                  # 2D array patterns and practice
+├── chapter_14_practice/                  # Practice problems and checks
 ├── VS_Code_Shortcuts.md                  # Helpful VS Code shortcuts
 └── README.md                             # This file
 ```
@@ -128,8 +132,60 @@ LearnPlaywright/
 
 - `28_Functions.js` - Function basics and declarations
 - `29_Types_of_Functions.js` - Function types and variations
+- `30_IIFE.js` - Immediately invoked function expressions
+- `31_Default_Param.js` - Default function parameters
+- `32_Rest_Param.js` - Rest parameters
+- `33_Closure.js` - Closures and scope preservation
 
-**Topics:** Function declarations, function types, parameters, return values
+**Topics:** Function declarations, function types, parameters, return values, IIFE, rest/default params, closures
+
+### 📌 Chapter 11: Strings
+
+**Files:**
+
+- `34_String.js` - String basics and operations
+- `35_Strings.js` - String methods and examples
+- `36_Str_Search_Check.js` - Search and check operations on strings
+- `37_Substring.js` - Substring extraction methods
+- `38_Transform.js` - String transformation methods
+
+**Topics:** String manipulation, search, slicing, and transformation
+
+### 📌 Chapter 12: Objects
+
+**Files:**
+
+- `39_Objects.js` - Object basics and properties
+- `40_Objects.js` - Object methods and iteration
+- `41_Objects.js` - Object creation and prototypes
+- `42_Primitive_vs_Reference.js` - Primitive vs reference behavior
+- `43_Objects.js` - Object merging and copying
+- `44_Objects.js` - Nested objects and deep access
+- `45_Objects_olderway.js` - Legacy object patterns
+- `46_Objects.js` - Object utility patterns
+
+**Topics:** Object creation, property access, references, and methods
+
+### 📌 Chapter 13: 2D Arrays
+
+**Files:**
+
+- `47_2D_array.js` - 2D array basics
+- `48_2D_array.js` - 2D array iteration and access
+- `49_2D_array.js` - 2D array operations
+- `50_2D_pattern.js` - 2D array pattern practice
+
+**Topics:** Two-dimensional arrays, nested loops, matrix patterns
+
+### 📌 Chapter 14: Practice Problems
+
+**Files:**
+
+- `51_stringReverse.js` - Reverse string practice
+- `52_palindromeCheck.js` - Palindrome checking practice
+- `53_anagramCheck.js` - Anagram checking practice
+
+**Topics:** String and algorithm practice problems
 
 ---
 
@@ -157,7 +213,7 @@ LearnPlaywright/
 3. Example:
    ```bash
    node chapter_01_Basics/01_Basics.js
-   node chapter_08_loops/18_loops.js
+   node chapter_14_practice/53_anagramCheck.js
    ```
 
 ### Learning Path
@@ -171,16 +227,20 @@ LearnPlaywright/
 
 ## Quick Reference
 
-| Concept                   | Chapter | Files                                         |
-| ------------------------- | ------- | --------------------------------------------- |
-| Basics                    | 1       | `01_Basics.js`                                |
-| Variables (var/let/const) | 3       | `03_var_let_const.js`                         |
-| Hoisting                  | 3       | `05_hoisting.js`                              |
-| Operators                 | 3       | `07_operator.js`, `08_Ternary.js`             |
-| Conditionals              | 4, 5    | `09_If_Else.js`, `11_Switch_Statement.js`     |
-| Loops                     | 8       | `18_loops.js`                                 |
-| Arrays                    | 9       | `21_Array.js` - `27_Array_checking.js`        |
-| Functions                 | 10      | `28_Functions.js`, `29_Types_of_Functions.js` |
+| Concept                   | Chapter | Files                                                                |
+| ------------------------- | ------- | -------------------------------------------------------------------- |
+| Basics                    | 1       | `01_Basics.js`                                                       |
+| Variables (var/let/const) | 3       | `03_var_let_const.js`                                                |
+| Hoisting                  | 3       | `05_hoisting.js`                                                     |
+| Operators                 | 3       | `07_operator.js`, `08_Ternary.js`                                    |
+| Conditionals              | 4, 5    | `09_If_Else.js`, `11_Switch_Statement.js`                            |
+| Loops                     | 8       | `18_loops.js`                                                        |
+| Arrays                    | 9       | `21_Array.js` - `27_Array_checking.js`                               |
+| Functions                 | 10      | `28_Functions.js`, `29_Types_of_Functions.js`                        |
+| Strings                   | 11      | `34_String.js` - `38_Transform.js`                                   |
+| Objects                   | 12      | `39_Objects.js` - `46_Objects.js`                                    |
+| 2D Arrays                 | 13      | `47_2D_array.js` - `50_2D_pattern.js`                                |
+| Practice Problems         | 14      | `51_stringReverse.js`, `52_palindromeCheck.js`, `53_anagramCheck.js` |
 
 ---
 
