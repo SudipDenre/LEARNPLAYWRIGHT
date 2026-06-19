@@ -9,3 +9,18 @@ for(let i=0;i<arr.length;i++){
         console.log(arr[i][j]);   
     }
 }
+
+for(let row of arr){
+    for(let col of row){
+        process.stdout.write(col + " ");
+    }
+    console.log();
+}
+
+// forEach
+arr.forEach(row => {
+    row.forEach(
+        cell => process.stdout.write(cell + " ")
+    )
+    console.log();
+})
