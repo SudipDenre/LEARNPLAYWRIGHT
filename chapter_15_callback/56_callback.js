@@ -1,3 +1,4 @@
+// Asynchronous callback
 console.log("Test 1 : started...");
 
 setTimeout(() => {
@@ -5,3 +6,10 @@ setTimeout(() => {
 }, 3000);
 
 console.log("Test 3 : moving to next test...");
+
+// Synchronous callback
+let testResults = ["pass", "fail", "pass", "skip"];
+
+testResults.forEach((result, index) => {
+    console.log("Test"+index+"=>"+result);
+})
