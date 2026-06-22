@@ -1,7 +1,7 @@
 // whenever a function will return a promise,
 // we should use async while creating that function
 // and we should use await while calling it.
-// await -> until the promise is resolved or rejected, it will wait.
+// await -> until the promise is resolved or rejected, it will pause the execution of the async function.
 
 function getToken(){
     return Promise.resolve("pass");
