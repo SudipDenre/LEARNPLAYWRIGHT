@@ -29,3 +29,9 @@ Promise.allSettled([
         console.log(`Test ${i+1} -> ${r.status}(${r.value || r.reason})`);
     })
 })
+
+
+// If setTimeout() and Promise comes in the same code
+// Then Promise will get higher priority.
+// because Promise will be present in microtask queue.
+// And microtask queue > macrotask queue
