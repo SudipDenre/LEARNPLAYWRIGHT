@@ -196,6 +196,17 @@ LearnPlaywright/
 - **Node.js** installed on your machine ([Download](https://nodejs.org/))
 - **Visual Studio Code** or any code editor
 
+### Playwright (optional)
+
+If you plan to run Playwright tests, install Playwright and the browser binaries:
+
+```bash
+npm i -D @playwright/test
+npx playwright install
+# On Linux, also run:
+npx playwright install-deps
+```
+
 ### Running Examples
 
 1. Navigate to the project directory:
